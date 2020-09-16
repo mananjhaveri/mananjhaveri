@@ -32,7 +32,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-> Written on [DataPhrase](https://dataphrase.github.io/) - A weekly Data Science blog run by Devanshu Ramaiya and me.
+> Written on [DataPhrase](https://dataphrase.github.io/) - A weekly Data Science blog run by [Devanshu Ramaiya](https://github.com/devanshu125) and me.
 
 - [EDA - How was Handwashing discovered](https://dataphrase.github.io/handwash/)
 - [Graduate Admission Prediction](https://dataphrase.github.io/graduateadmission/)
